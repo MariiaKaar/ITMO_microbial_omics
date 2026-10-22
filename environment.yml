@@ -1,0 +1,14 @@
+name: pago
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - biopython
+  - seqkit
+  - cd-hit
+  - mafft
+  - trimal
+  - iqtree
+  - fasttree
+  - blast

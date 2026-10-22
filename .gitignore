@@ -1,0 +1,17 @@
+# large intermediate files (regenerate with scripts/)
+data/prok_piwi_raw.fasta
+data/euk_ago_all.fasta
+data/all_raw.fasta
+data/all_nodup.fasta
+data/all_clean.fasta
+data/all_clean_ids.fasta
+*.clstr
+# IQ-TREE side files
+*.ckp.gz
+*.mldist
+*.bionj
+*.splits.nex
+*.uniqueseq.phy
+# misc
+__pycache__/
+.DS_Store
